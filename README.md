@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C535%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C536%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C532%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .ink one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,535 rows · **Live catalog:** 7,532 domains
+**Public extract:** 7,536 rows · **Live catalog:** 7,532 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ink`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .INK one-word domain c
 
 ### Files
 
-- `ink.csv` — public CSV extract (7,535 rows)
-- `ink.json` — public JSON extract (7,535 rows)
+- `ink.csv` — public CSV extract (7,536 rows)
+- `ink.json` — public JSON extract (7,536 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -66,13 +66,13 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | nationwide.ink | available | $33.98    | —             | 76             | 66     | 10     | namecheap                                    |
 | active.ink     | resell    | $805      | $65.99        | 104            | 30     | 6      | West263 International Limited                |
-| free.ink       | premium   | $2,500    | $2,500        | 88             | 59     | 4      | name.com                                     |
+| cloud.ink      | premium   | $845      | $845          | 70             | 59     | 5      | namecheap                                    |
 | seventeen.ink  | available | $33.98    | —             | 84             | 62     | 9      | namecheap                                    |
 | box.ink        | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                 |
-| cloud.ink      | premium   | $845      | $845          | 70             | 59     | 5      | namecheap                                    |
+| ace.ink        | premium   | $312.50   | $312.50       | 88             | 57     | 3      | name.com                                     |
 | four.ink       | available | $33.98    | —             | 66             | 30     | 4      | namecheap                                    |
 | name.ink       | resell    | —         | —             | 82             | 76     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ace.ink        | premium   | $312.50   | $312.50       | 88             | 57     | 3      | name.com                                     |
+| free.ink       | premium   | $2,500    | $2,500        | 88             | 57     | 4      | name.com                                     |
 | curative.ink   | available | $33.98    | —             | 92             | 27     | 8      | namecheap                                    |
 | with.ink       | resell    | —         | —             | 98             | 74     | 4      | West263 International Limited                |
 | alpha.ink      | premium   | $312.50   | $312.50       | 90             | 53     | 5      | name.com                                     |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,535-row public sample | 7,532 live domains                               |
+| 7,536-row public sample | 7,532 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
