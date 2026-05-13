@@ -288,6 +288,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 188dc53d-2008-41a5-8d11-c5e086b6316c,mobiles.ink,available,2.99,,62,19,7,name.com,,
 18929e63-05d7-49c7-9794-7e75ad6a4176,gusts.ink,available,2.99,,48,3,5,name.com,,
 1894421a-539a-413b-bf38-8076524bfa3e,accountspayable.ink,available,2.99,,62,4,16,name.com,,
+18a2226e-6475-455c-8092-c49f9f6a2387,DJI.ink,premium,3552.32,,72,21,3,name.com,,
 18b3d6ca-ec20-4f2b-ba1b-dc811001409e,deciders.ink,available,2.99,,56,3,8,name.com,,
 18f0fdf5-267f-4861-9c89-48836c75dfd4,havenot.ink,available,2.99,,66,4,8,name.com,,
 1904620f-929a-42b0-849c-dd03db6c1c90,abided.ink,available,2.99,,70,1,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 600f9a4e-ce91-4119-b6f3-b614aad07e1a,justices.ink,available,2.99,,52,6,8,name.com,,
 6010652c-eb03-4cf7-a0d9-5e0dceaef699,comeinfor.ink,available,2.99,,76,0,11,name.com,,
 6015b056-0c4a-48e9-aa6a-a82087033724,decides.ink,available,2.99,,56,3,7,name.com,,
-60370608-e889-4221-95e2-de0a626a9557,pills.ink,available,2.99,,56,15,5,name.com,,
