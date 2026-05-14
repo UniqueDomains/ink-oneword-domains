@@ -918,6 +918,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58a97eef-bea0-48c6-80a2-d62bb0ee88ce,rollover.ink,available,2.99,,75,8,9,name.com,,
 58b0e314-2ff4-4322-b2f0-5126bb28e6da,lightsout.ink,available,2.99,,56,12,10,name.com,,
 58b2a16b-9e38-411a-b261-0793e682102c,supposeto.ink,available,2.99,,52,1,10,name.com,,
+58dc70e1-5a0a-41c9-86aa-cda7533e767a,nowornever.ink,premium,,,68,11,12,,,
 5944b8e0-0001-410b-8777-3c4f8f7efad2,dogstail.ink,available,2.99,,94,1,8,name.com,,
 596b4bfb-324a-408a-973b-4df1e0dc1da8,characterised.ink,available,2.99,,48,1,13,name.com,,
 5978aa2c-e2e9-4a9c-9ca4-f4e00279dc56,publicoffice.ink,available,2.99,,69,2,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ffaaef3-2965-49e0-a13d-ac80d325a147,coffeecake.ink,available,2.99,,80,2,11,name.com,,
 600f9a4e-ce91-4119-b6f3-b614aad07e1a,justices.ink,available,2.99,,52,6,8,name.com,,
 6010652c-eb03-4cf7-a0d9-5e0dceaef699,comeinfor.ink,available,2.99,,76,0,11,name.com,,
-6015b056-0c4a-48e9-aa6a-a82087033724,decides.ink,available,2.99,,56,3,7,name.com,,
