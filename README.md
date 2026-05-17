@@ -1,10 +1,10 @@
-# Available .INK One-Word Domains (10,317)
+# Available .INK One-Word Domains (10,319)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C317%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C319%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ink one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,317 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,319 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,317 domains · **Median ask:** $19.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,319 domains · **Median ask:** $19.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/ink`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | stirup.ink     | available | $2.99     | —             | 82             | 3      | 7      | name.com         |
 | getlife.ink    | available | $2.99     | —             | 80             | 5      | 8      | name.com         |
 | Snickers.ink   | available | $43.98    | —             | 80             | 10     | 8      | namecheap        |
-| rumcake.ink    | available | $2.99     | —             | 81             | 3      | 8      | name.com         |
+| rumcake.ink    | available | $2.99     | —             | 81             | 2      | 8      | name.com         |
 | regions.ink    | available | $2.99     | —             | 64             | 59     | 7      | name.com         |
 | makers.ink     | resell    | —         | —             | 62             | 67     | 6      | GoDaddy.com, LLC |
 | insight.ink    | premium   | $125      | —             | 76             | 69     | 8      | name.com         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,317 live domains                        |
+| 1,000-row public sample | 10,319 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INK One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INK One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
