@@ -1,10 +1,10 @@
-# Available .INK One-Word Domains (10,320)
+# Available .INK One-Word Domains (10,319)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C320%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C319%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .ink one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,320 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,319 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,320 domains · **Median ask:** $19.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,319 domains · **Median ask:** $93.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/ink`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ink`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INK one-word domain c
 
 ### Files
 
-- `ink.csv` — public CSV extract (1,000 rows)
-- `ink.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ink.csv`, public CSV extract (1,000 rows)
+- `ink.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| finals.ink     | available | $2.99     | —             | 80             | 7      | 6      | name.com         |
-| forces.ink     | available | $2.99     | —             | 82             | 12     | 6      | name.com         |
-| edamame.ink    | available | $2.99     | —             | 80             | 9      | 7      | name.com         |
-| hangon.ink     | available | $2.99     | —             | 82             | 6      | 7      | name.com         |
-| pierogi.ink    | available | $2.99     | —             | 82             | 7      | 7      | name.com         |
-| stirup.ink     | available | $2.99     | —             | 82             | 3      | 7      | name.com         |
-| getlife.ink    | available | $2.99     | —             | 80             | 5      | 8      | name.com         |
-| Snickers.ink   | available | $43.98    | —             | 80             | 10     | 8      | namecheap        |
-| rumcake.ink    | available | $2.99     | —             | 81             | 2      | 8      | name.com         |
-| regions.ink    | available | $2.99     | —             | 64             | 59     | 7      | name.com         |
-| makers.ink     | resell    | —         | —             | 62             | 67     | 6      | GoDaddy.com, LLC |
-| insight.ink    | premium   | $125      | —             | 76             | 69     | 8      | name.com         |
-| motorsport.ink | available | $2.99     | —             | 74             | 23     | 10     | name.com         |
-| skills.ink     | resell    | —         | —             | 58             | 47     | 6      | Spaceship, Inc.  |
-| cars.ink       | premium   | $125      | —             | 66             | 47     | 4      | name.com         |
-| veterans.ink   | available | $2.99     | —             | 56             | 23     | 8      | name.com         |
-| videos.ink     | resell    | —         | —             | 52             | 30     | 6      | NameCheap, Inc.  |
-| Keith.ink      | premium   | $245      | $245          | 66             | 25     | 5      | namecheap        |
-| oceans.ink     | available | $2.99     | —             | 64             | 22     | 6      | name.com         |
-| systems.ink    | resell    | —         | —             | 46             | 27     | 7      | GoDaddy.com, LLC |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| gag.ink    | available | $2.99     | $32.49        | high           | low    | 3      | namesilo                                            |
+| wizard.ink | resell    | $33.98    | —             | high           | medium | 6      | Sav.com LLC                                         |
+| abc.ink    | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                           |
+| lag.ink    | available | $2.99     | —             | medium         | low    | 3      | name.com                                            |
+| anal.ink   | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                                     |
+| ana.ink    | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo                                            |
+| lcd.ink    | available | $2.99     | —             | high           | low    | 3      | name.com                                            |
+| call.ink   | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| bad.ink    | premium   | $1,656.25 | —             | high           | medium | 3      | name.com                                            |
+| toe.ink    | available | $2.99     | —             | medium         | low    | 3      | name.com                                            |
+| data.ink   | resell    | —         | —             | high           | medium | 4      | West263 International Limited                       |
+| buy.ink    | premium   | $4,375    | —             | high           | medium | 3      | name.com                                            |
+| tub.ink    | available | $2.99     | —             | high           | low    | 3      | name.com                                            |
+| ding.ink   | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| dip.ink    | premium   | $125      | $125          | high           | low    | 3      | name.com                                            |
+| yur.ink    | available | $2.99     | —             | high           | low    | 3      | name.com                                            |
+| only.ink   | resell    | —         | —             | high           | medium | 4      | GoDaddy Corporate Domains, LLC                      |
+| don.ink    | premium   | $116      | $116          | high           | low    | 3      | namesilo                                            |
+| ahuh.ink   | available | $2.99     | $32.49        | high           | low    | 4      | namesilo                                            |
+| over.ink   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,320 live domains                        |
+| 1,000-row public sample | 10,319 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .ink domains. The extension naturally suits names connected to writing, design, publishing, tattoos, creative work, and expressive brands, but some words also read broadly enough for software, media, or consumer projects. Examples such as finals.ink, jewels.ink, forces.ink, and useit.ink show the mix of dictionary words, action-oriented terms, and brandable constructions in this set. When comparing these domains, start with whether the word still feels strong with .ink, then check ask price, likely renewal burden, spelling ease, and any trademark exposure. Names like Chanel.ink and Apples.ink deserve extra caution because the term itself may create obvious rights risk.
+This list of one-word .ink domains spans creative, product-style, and lifestyle names such as windowshop.ink, rumcake.ink, and solarpower.ink. With a median ask of $93, these domains sit in an accessible price range for both quick brand launches and speculative holds. Because .ink carries no single dominant industry association, name clarity and renewal cost matter more than sector fit when comparing options within this set.
 
-- All domains in this set use the .ink extension
-- Selection size: 10,304; median ask: 18.73
-- Best fits favor clear words that pair naturally with .ink
-- Screen carefully for trademark-heavy terms and weak word-fit
+- 10,319 one-word .ink domains in this set
+- Median asking price near $93
+- Short, brandable names like getlucky.ink
+- Updated daily to reflect current availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INK One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
