@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ink one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,546 domains · **Median ask:** $45.47 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/ink`
 **Best for:** founders, investors, studios
 
@@ -69,8 +69,8 @@ print(df.head())
 | great.ink   | premium   | $302.50   | $302.50       | high           | low    | 5      | namesilo                                            |
 | clean.ink   | premium   | $116      | $116          | high           | low    | 5      | namesilo                                            |
 | perfect.ink | premium   | $218.75   | —             | high           | medium | 7      | name.com                                            |
-| wizard.ink  | resell    | $33.98    | —             | high           | medium | 6      | Sav.com LLC                                         |
 | gag.ink     | available | $2.99     | $32.49        | high           | low    | 3      | namesilo                                            |
+| wizard.ink  | resell    | $33.98    | —             | high           | medium | 6      | Sav.com LLC                                         |
 | abc.ink     | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                           |
 | lag.ink     | available | $2.99     | —             | medium         | low    | 3      | name.com                                            |
 | call.ink    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INK One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INK One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
