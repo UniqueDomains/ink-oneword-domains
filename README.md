@@ -1,10 +1,10 @@
-# Available .INK One-Word Domains (24,805)
+# Available .INK One-Word Domains (26,130)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C805%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C130%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ink one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,805 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,130 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,805 domains · **Median ask:** $16.74 · **High-demand under $2,500:** 32
+**Public extract:** 1,000 rows · **Live catalog:** 26,130 domains · **Median ask:** $16.33 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/ink`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | she.ink  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
 | aca.ink  | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                               |
 | tit.ink  | available | $2.98     | $43.98        | high           | low    | 3      | namecheap                                               |
-| tia.ink  | resell    | —         | —             | high           | low    | 3      | —                                                       |
-| cia.ink  | premium   | $116      | $116          | high           | medium | 3      | namesilo                                                |
+| sss.ink  | resell    | —         | —             | high           | low    | 3      | —                                                       |
+| cnt.ink  | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
 | acth.ink | available | $2.99     | $32.49        | medium         | low    | 4      | namesilo                                                |
-| boys.ink | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
+| tia.ink  | resell    | —         | —             | high           | low    | 3      | —                                                       |
 | dma.ink  | premium   | $110      | $110          | high           | low    | 3      | dynadot                                                 |
 | akan.ink | available | $2.99     | $32.49        | high           | low    | 4      | namesilo                                                |
-| chat.ink | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| boys.ink | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
 | efl.ink  | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                               |
 | amid.ink | available | $1.75     | $26.08        | high           | low    | 4      | spaceship                                               |
-| dive.ink | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
+| chat.ink | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | gma.ink  | premium   | $130      | $130          | high           | low    | 3      | namecheap                                               |
 | bale.ink | available | $2.99     | $32.49        | medium         | low    | 4      | namesilo                                                |
-| igor.ink | resell    | —         | —             | high           | low    | 4      | —                                                       |
-| got.ink  | premium   | $845      | $845          | high           | low    | 3      | namecheap                                               |
+| dive.ink | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
+| inr.ink  | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
 | balk.ink | available | $2.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
-| lego.ink | resell    | —         | —             | high           | high   | 4      | —                                                       |
+| igor.ink | resell    | —         | —             | high           | low    | 4      | —                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,805 live domains                        |
+| 1,000-row public sample | 26,130 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 32 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INK One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INK One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
